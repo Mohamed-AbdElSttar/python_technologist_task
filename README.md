@@ -6,7 +6,7 @@
    - google sheet link : [goole sheet](https://docs.google.com/spreadsheets/d/1D0l4CEZ1hKpC7J0eI6wULWekEzZ5eC4BBKil5Qxkppw/edit?usp=sharing)
 	
 2. flask task:
-   - api endpoints:
+   # api endpoints:
 	- get all novels : /novel   [GET]
 	- get a novel : /novel/<id>   [GET]
 	- add a novel : /novel/   [POST]
