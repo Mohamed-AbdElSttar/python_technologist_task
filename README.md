@@ -8,10 +8,10 @@
 2. flask task:
    ### api endpoints:
 	- get all novels : /novel   [GET]
-	- get a novel : /novel/<id>   [GET]
+	- get a novel : /novel/id   [GET]
 	- add a novel : /novel/   [POST]
-	- update a novel : /novel/<id>   [PUT]
-	- delete a novel : /novel/<id>   [DELETE]
+	- update a novel : /novel/id   [PUT]
+	- delete a novel : /novel/id   [DELETE]
 	
 3. qr and pdf task:
    - covers directory that contain books covers pdf files
